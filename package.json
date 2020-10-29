@@ -11,6 +11,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "3.4.4"
+     { "registry": "https://npm.pkg.github.com/" }
+  
   },
   "scripts": {
     "start": "react-scripts start",
